@@ -57,15 +57,6 @@ The dataset combines multiple global indicators, including:
 - Murder Rate
 - Suicide Rate
 
----
-
-## Key Findings
-
-- HDI showed the strongest relationship with national happiness.
-- Income per person was positively associated with happiness, although with diminishing returns at higher income levels.
-- Lower levels of perceived corruption were generally linked to higher happiness scores.
-- Democracy showed a more complex relationship with happiness than other variables.
-- National happiness is influenced by multiple socioeconomic and institutional factors rather than a single indicator.
 
 ---
 
